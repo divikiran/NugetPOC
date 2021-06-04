@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "iFmYJbI2sVJFyX58Bt5YmTQ0Ffozc8XabGKiUPzbQviFRx2nQzqP+4tcnotKObT9fT/3aAjRMH9ZquqX7osh9A==",
+  "success": true,
+  "projectFilePath": "/Users/divikiranravela/Projects/NugetPOC/NugetPOC.iOS/NugetPOC.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/divikiranravela/.nuget/packages/freshmvvm/3.0.0/freshmvvm.3.0.0.nupkg.sha512",
+    "/Users/divikiranravela/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "/Users/divikiranravela/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/divikiranravela/.nuget/packages/system.reactive/4.0.0/system.reactive.4.0.0.nupkg.sha512",
+    "/Users/divikiranravela/.nuget/packages/system.runtime.interopservices.windowsruntime/4.3.0/system.runtime.interopservices.windowsruntime.4.3.0.nupkg.sha512",
+    "/Users/divikiranravela/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/divikiranravela/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
